@@ -3,7 +3,7 @@
 
 ## Integrantes
 - [Emiliano Fregoso Chavez] – Matrícula: [26491149]
-- [Isaac Gonzalez casares] – Matrícula: [matrícula]
+- [Isaac Gonzalez casares] – Matrícula: [26491025]
 
 ## Descripción del proyecto
 Programa en Python que registra las calificaciones de un grupo de alumnos y calcula estadísticas del grupo.
